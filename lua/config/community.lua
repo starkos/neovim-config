@@ -1,0 +1,6 @@
+--
+-- AstroNvim community modules
+--
+
+return {
+}
